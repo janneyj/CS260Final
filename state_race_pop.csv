@@ -1,0 +1,302 @@
+field1,TOTAL,STATEFIP,state,2020_census,Notes,States,States Code,Race,Race Code,Population
+0,101695,1,Alabama,5024279,,Alabama,1,American Indian or Alaska Native,1002-5,38281
+0,101695,1,Alabama,5024279,,Alabama,1,Asian,A,81665
+0,101695,1,Alabama,5024279,,Alabama,1,Black or African American,2054-5,1360275
+0,101695,1,Alabama,5024279,,Alabama,1,More than one race,M,102696
+0,101695,1,Alabama,5024279,,Alabama,1,Native Hawaiian or Other Pacific Islander,NHOPI,6075
+0,101695,1,Alabama,5024279,,Alabama,1,White,2106-3,3519476
+0,101695,1,Alabama,5024279,Total,Alabama,1,,,5108468
+1,169862,4,Arizona,7151502,,Arizona,4,American Indian or Alaska Native,1002-5,383596
+1,169862,4,Arizona,7151502,,Arizona,4,Asian,A,303691
+1,169862,4,Arizona,7151502,,Arizona,4,Black or African American,2054-5,422598
+1,169862,4,Arizona,7151502,,Arizona,4,More than one race,M,243101
+1,169862,4,Arizona,7151502,,Arizona,4,Native Hawaiian or Other Pacific Islander,NHOPI,21999
+1,169862,4,Arizona,7151502,,Arizona,4,White,2106-3,6056359
+1,169862,4,Arizona,7151502,Total,Arizona,4,,,7431344
+2,59602,5,Arkansas,3011524,,Arkansas,5,American Indian or Alaska Native,1002-5,34691
+2,59602,5,Arkansas,3011524,,Arkansas,5,Asian,A,57743
+2,59602,5,Arkansas,3011524,,Arkansas,5,Black or African American,2054-5,478247
+2,59602,5,Arkansas,3011524,,Arkansas,5,More than one race,M,76251
+2,59602,5,Arkansas,3011524,,Arkansas,5,Native Hawaiian or Other Pacific Islander,NHOPI,15064
+2,59602,5,Arkansas,3011524,,Arkansas,5,White,2106-3,2405736
+2,59602,5,Arkansas,3011524,Total,Arkansas,5,,,3067732
+3,675921,6,California,39538223,,California,6,American Indian or Alaska Native,1002-5,677414
+3,675921,6,California,39538223,,California,6,Asian,A,6437876
+3,675921,6,California,39538223,,California,6,Black or African American,2054-5,2528093
+3,675921,6,California,39538223,,California,6,More than one race,M,1689132
+3,675921,6,California,39538223,,California,6,Native Hawaiian or Other Pacific Islander,NHOPI,204965
+3,675921,6,California,39538223,,California,6,White,2106-3,27427713
+3,675921,6,California,39538223,Total,California,6,,,38965193
+4,148869,8,Colorado,5773714,,Colorado,8,American Indian or Alaska Native,1002-5,98655
+4,148869,8,Colorado,5773714,,Colorado,8,Asian,A,225455
+4,148869,8,Colorado,5773714,,Colorado,8,Black or African American,2054-5,282708
+4,148869,8,Colorado,5773714,,Colorado,8,More than one race,M,205318
+4,148869,8,Colorado,5773714,,Colorado,8,Native Hawaiian or Other Pacific Islander,NHOPI,13489
+4,148869,8,Colorado,5773714,,Colorado,8,White,2106-3,5051985
+4,148869,8,Colorado,5773714,Total,Colorado,8,,,5877610
+5,77885,9,Connecticut,3605944,,Connecticut,9,American Indian or Alaska Native,1002-5,28169
+5,77885,9,Connecticut,3605944,,Connecticut,9,Asian,A,187721
+5,77885,9,Connecticut,3605944,,Connecticut,9,Black or African American,2054-5,473626
+5,77885,9,Connecticut,3605944,,Connecticut,9,More than one race,M,101484
+5,77885,9,Connecticut,3605944,,Connecticut,9,Native Hawaiian or Other Pacific Islander,NHOPI,4330
+5,77885,9,Connecticut,3605944,,Connecticut,9,White,2106-3,2821846
+5,77885,9,Connecticut,3605944,Total,Connecticut,9,,,3617176
+6,8802,10,Delaware,989948,,Delaware,10,American Indian or Alaska Native,1002-5,7565
+6,8802,10,Delaware,989948,,Delaware,10,Asian,A,45629
+6,8802,10,Delaware,989948,,Delaware,10,Black or African American,2054-5,248434
+6,8802,10,Delaware,989948,,Delaware,10,More than one race,M,31971
+6,8802,10,Delaware,989948,,Delaware,10,Native Hawaiian or Other Pacific Islander,NHOPI,1197
+6,8802,10,Delaware,989948,,Delaware,10,White,2106-3,697094
+6,8802,10,Delaware,989948,Total,Delaware,10,,,1031890
+7,185759,12,Florida,21538187,,Florida,12,American Indian or Alaska Native,1002-5,129405
+7,185759,12,Florida,21538187,,Florida,12,Asian,A,728225
+7,185759,12,Florida,21538187,,Florida,12,Black or African American,2054-5,3829414
+7,185759,12,Florida,21538187,,Florida,12,More than one race,M,561138
+7,185759,12,Florida,21538187,,Florida,12,Native Hawaiian or Other Pacific Islander,NHOPI,29213
+7,185759,12,Florida,21538187,,Florida,12,White,2106-3,17333331
+7,185759,12,Florida,21538187,Total,Florida,12,,,22610726
+8,9097,15,Hawaii,1455271,,Hawaii,15,American Indian or Alaska Native,1002-5,5639
+8,9097,15,Hawaii,1455271,,Hawaii,15,Asian,A,535776
+8,9097,15,Hawaii,1455271,,Hawaii,15,Black or African American,2054-5,31398
+8,9097,15,Hawaii,1455271,,Hawaii,15,More than one race,M,353058
+8,9097,15,Hawaii,1455271,,Hawaii,15,Native Hawaiian or Other Pacific Islander,NHOPI,147752
+8,9097,15,Hawaii,1455271,,Hawaii,15,White,2106-3,361515
+8,9097,15,Hawaii,1455271,Total,Hawaii,15,,,1435138
+9,7667,16,Idaho,1839106,,Idaho,16,American Indian or Alaska Native,1002-5,33774
+9,7667,16,Idaho,1839106,,Idaho,16,Asian,A,34265
+9,7667,16,Idaho,1839106,,Idaho,16,Black or African American,2054-5,19766
+9,7667,16,Idaho,1839106,,Idaho,16,More than one race,M,55631
+9,7667,16,Idaho,1839106,,Idaho,16,Native Hawaiian or Other Pacific Islander,NHOPI,4701
+9,7667,16,Idaho,1839106,,Idaho,16,White,2106-3,1816589
+9,7667,16,Idaho,1839106,Total,Idaho,16,,,1964726
+10,66237,17,Illinois,12801989,,Illinois,17,American Indian or Alaska Native,1002-5,81266
+10,66237,17,Illinois,12801989,,Illinois,17,Asian,A,793760
+10,66237,17,Illinois,12801989,,Illinois,17,Black or African American,2054-5,1836105
+10,66237,17,Illinois,12801989,,Illinois,17,More than one race,M,289109
+10,66237,17,Illinois,12801989,,Illinois,17,Native Hawaiian or Other Pacific Islander,NHOPI,8754
+10,66237,17,Illinois,12801989,,Illinois,17,White,2106-3,9540695
+10,66237,17,Illinois,12801989,Total,Illinois,17,,,12549689
+11,137337,18,Indiana,6785528,,Indiana,18,American Indian or Alaska Native,1002-5,32050
+11,137337,18,Indiana,6785528,,Indiana,18,Asian,A,197232
+11,137337,18,Indiana,6785528,,Indiana,18,Black or African American,2054-5,715156
+11,137337,18,Indiana,6785528,,Indiana,18,More than one race,M,168612
+11,137337,18,Indiana,6785528,,Indiana,18,Native Hawaiian or Other Pacific Islander,NHOPI,5681
+11,137337,18,Indiana,6785528,,Indiana,18,White,2106-3,5743468
+11,137337,18,Indiana,6785528,Total,Indiana,18,,,6862199
+12,174011,19,Iowa,3271616,,Iowa,19,American Indian or Alaska Native,1002-5,20215
+12,174011,19,Iowa,3271616,,Iowa,19,Asian,A,87472
+12,174011,19,Iowa,3271616,,Iowa,19,Black or African American,2054-5,144668
+12,174011,19,Iowa,3271616,,Iowa,19,More than one race,M,71000
+12,174011,19,Iowa,3271616,,Iowa,19,Native Hawaiian or Other Pacific Islander,NHOPI,8976
+12,174011,19,Iowa,3271616,,Iowa,19,White,2106-3,2874673
+12,174011,19,Iowa,3271616,Total,Iowa,19,,,3207004
+13,156225,21,Kentucky,4505836,,Kentucky,21,American Indian or Alaska Native,1002-5,15420
+13,156225,21,Kentucky,4505836,,Kentucky,21,Asian,A,81438
+13,156225,21,Kentucky,4505836,,Kentucky,21,Black or African American,2054-5,396045
+13,156225,21,Kentucky,4505836,,Kentucky,21,More than one race,M,105059
+13,156225,21,Kentucky,4505836,,Kentucky,21,Native Hawaiian or Other Pacific Islander,NHOPI,5555
+13,156225,21,Kentucky,4505836,,Kentucky,21,White,2106-3,3922637
+13,156225,21,Kentucky,4505836,Total,Kentucky,21,,,4526154
+14,23002,22,Louisiana,4657757,,Louisiana,22,American Indian or Alaska Native,1002-5,40512
+14,23002,22,Louisiana,4657757,,Louisiana,22,Asian,A,88319
+14,23002,22,Louisiana,4657757,,Louisiana,22,Black or African American,2054-5,1491010
+14,23002,22,Louisiana,4657757,,Louisiana,22,More than one race,M,89750
+14,23002,22,Louisiana,4657757,,Louisiana,22,Native Hawaiian or Other Pacific Islander,NHOPI,3177
+14,23002,22,Louisiana,4657757,,Louisiana,22,White,2106-3,2860981
+14,23002,22,Louisiana,4657757,Total,Louisiana,22,,,4573749
+15,211910,24,Maryland,6177224,,Maryland,24,American Indian or Alaska Native,1002-5,47993
+15,211910,24,Maryland,6177224,,Maryland,24,Asian,A,437702
+15,211910,24,Maryland,6177224,,Maryland,24,Black or African American,2054-5,1950664
+15,211910,24,Maryland,6177224,,Maryland,24,More than one race,M,201773
+15,211910,24,Maryland,6177224,,Maryland,24,Native Hawaiian or Other Pacific Islander,NHOPI,8096
+15,211910,24,Maryland,6177224,,Maryland,24,White,2106-3,3534025
+15,211910,24,Maryland,6177224,Total,Maryland,24,,,6180253
+16,9249,25,Massachusetts,7029917,,Massachusetts,25,American Indian or Alaska Native,1002-5,38677
+16,9249,25,Massachusetts,7029917,,Massachusetts,25,Asian,A,550884
+16,9249,25,Massachusetts,7029917,,Massachusetts,25,Black or African American,2054-5,675303
+16,9249,25,Massachusetts,7029917,,Massachusetts,25,More than one race,M,198212
+16,9249,25,Massachusetts,7029917,,Massachusetts,25,Native Hawaiian or Other Pacific Islander,NHOPI,7962
+16,9249,25,Massachusetts,7029917,,Massachusetts,25,White,2106-3,5530361
+16,9249,25,Massachusetts,7029917,Total,Massachusetts,25,,,7001399
+17,230444,26,Michigan,10077331,,Michigan,26,American Indian or Alaska Native,1002-5,75560
+17,230444,26,Michigan,10077331,,Michigan,26,Asian,A,358227
+17,230444,26,Michigan,10077331,,Michigan,26,Black or African American,2054-5,1416157
+17,230444,26,Michigan,10077331,,Michigan,26,More than one race,M,283779
+17,230444,26,Michigan,10077331,,Michigan,26,Native Hawaiian or Other Pacific Islander,NHOPI,4861
+17,230444,26,Michigan,10077331,,Michigan,26,White,2106-3,7898677
+17,230444,26,Michigan,10077331,Total,Michigan,26,,,10037261
+18,269422,27,Minnesota,5706494,,Minnesota,27,American Indian or Alaska Native,1002-5,81410
+18,269422,27,Minnesota,5706494,,Minnesota,27,Asian,A,316621
+18,269422,27,Minnesota,5706494,,Minnesota,27,Black or African American,2054-5,450487
+18,269422,27,Minnesota,5706494,,Minnesota,27,More than one race,M,164559
+18,269422,27,Minnesota,5706494,,Minnesota,27,Native Hawaiian or Other Pacific Islander,NHOPI,5187
+18,269422,27,Minnesota,5706494,,Minnesota,27,White,2106-3,4719651
+18,269422,27,Minnesota,5706494,Total,Minnesota,27,,,5737915
+19,84923,28,Mississippi,2961279,,Mississippi,28,American Indian or Alaska Native,1002-5,19350
+19,84923,28,Mississippi,2961279,,Mississippi,28,Asian,A,35118
+19,84923,28,Mississippi,2961279,,Mississippi,28,Black or African American,2054-5,1111684
+19,84923,28,Mississippi,2961279,,Mississippi,28,More than one race,M,44966
+19,84923,28,Mississippi,2961279,,Mississippi,28,Native Hawaiian or Other Pacific Islander,NHOPI,2090
+19,84923,28,Mississippi,2961279,,Mississippi,28,White,2106-3,1726482
+19,84923,28,Mississippi,2961279,Total,Mississippi,28,,,2939690
+20,73128,29,Missouri,6154913,,Missouri,29,American Indian or Alaska Native,1002-5,39283
+20,73128,29,Missouri,6154913,,Missouri,29,Asian,A,144255
+20,73128,29,Missouri,6154913,,Missouri,29,Black or African American,2054-5,725454
+20,73128,29,Missouri,6154913,,Missouri,29,More than one race,M,169468
+20,73128,29,Missouri,6154913,,Missouri,29,Native Hawaiian or Other Pacific Islander,NHOPI,12713
+20,73128,29,Missouri,6154913,,Missouri,29,White,2106-3,5104983
+20,73128,29,Missouri,6154913,Total,Missouri,29,,,6196156
+21,61239,30,Montana,1084225,,Montana,30,American Indian or Alaska Native,1002-5,72887
+21,61239,30,Montana,1084225,,Montana,30,Asian,A,11977
+21,61239,30,Montana,1084225,,Montana,30,Black or African American,2054-5,7270
+21,61239,30,Montana,1084225,,Montana,30,More than one race,M,34610
+21,61239,30,Montana,1084225,,Montana,30,Native Hawaiian or Other Pacific Islander,NHOPI,1169
+21,61239,30,Montana,1084225,,Montana,30,White,2106-3,1004899
+21,61239,30,Montana,1084225,Total,Montana,30,,,1132812
+22,20013,31,Nebraska,1961504,,Nebraska,31,American Indian or Alaska Native,1002-5,33255
+22,20013,31,Nebraska,1961504,,Nebraska,31,Asian,A,56371
+22,20013,31,Nebraska,1961504,,Nebraska,31,Black or African American,2054-5,108042
+22,20013,31,Nebraska,1961504,,Nebraska,31,More than one race,M,51650
+22,20013,31,Nebraska,1961504,,Nebraska,31,Native Hawaiian or Other Pacific Islander,NHOPI,2872
+22,20013,31,Nebraska,1961504,,Nebraska,31,White,2106-3,1726189
+22,20013,31,Nebraska,1961504,Total,Nebraska,31,,,1978379
+23,13263,32,Nevada,3104614,,Nevada,32,American Indian or Alaska Native,1002-5,54687
+23,13263,32,Nevada,3104614,,Nevada,32,Asian,A,310590
+23,13263,32,Nevada,3104614,,Nevada,32,Black or African American,2054-5,351346
+23,13263,32,Nevada,3104614,,Nevada,32,More than one race,M,165512
+23,13263,32,Nevada,3104614,,Nevada,32,Native Hawaiian or Other Pacific Islander,NHOPI,28514
+23,13263,32,Nevada,3104614,,Nevada,32,White,2106-3,2283527
+23,13263,32,Nevada,3104614,Total,Nevada,32,,,3194176
+24,320958,34,New Jersey,9288994,,New Jersey,34,American Indian or Alaska Native,1002-5,72328
+24,320958,34,New Jersey,9288994,,New Jersey,34,Asian,A,988989
+24,320958,34,New Jersey,9288994,,New Jersey,34,Black or African American,2054-5,1442900
+24,320958,34,New Jersey,9288994,,New Jersey,34,More than one race,M,232030
+24,320958,34,New Jersey,9288994,,New Jersey,34,Native Hawaiian or Other Pacific Islander,NHOPI,13612
+24,320958,34,New Jersey,9288994,,New Jersey,34,White,2106-3,6540982
+24,320958,34,New Jersey,9288994,Total,New Jersey,34,,,9290841
+25,149500,35,New Mexico,2117522,,New Mexico,35,American Indian or Alaska Native,1002-5,241063
+25,149500,35,New Mexico,2117522,,New Mexico,35,Asian,A,43031
+25,149500,35,New Mexico,2117522,,New Mexico,35,Black or African American,2054-5,60042
+25,149500,35,New Mexico,2117522,,New Mexico,35,More than one race,M,59757
+25,149500,35,New Mexico,2117522,,New Mexico,35,Native Hawaiian or Other Pacific Islander,NHOPI,3593
+25,149500,35,New Mexico,2117522,,New Mexico,35,White,2106-3,1706885
+25,149500,35,New Mexico,2117522,Total,New Mexico,35,,,2114371
+26,56534,36,New York,20201249,,New York,36,American Indian or Alaska Native,1002-5,208676
+26,56534,36,New York,20201249,,New York,36,Asian,A,1904259
+26,56534,36,New York,20201249,,New York,36,Black or African American,2054-5,3457457
+26,56534,36,New York,20201249,,New York,36,More than one race,M,563094
+26,56534,36,New York,20201249,,New York,36,Native Hawaiian or Other Pacific Islander,NHOPI,28938
+26,56534,36,New York,20201249,,New York,36,White,2106-3,13408792
+26,56534,36,New York,20201249,Total,New York,36,,,19571216
+27,90186,37,North Carolina,10439388,,North Carolina,37,American Indian or Alaska Native,1002-5,172807
+27,90186,37,North Carolina,10439388,,North Carolina,37,Asian,A,399358
+27,90186,37,North Carolina,10439388,,North Carolina,37,Black or African American,2054-5,2392417
+27,90186,37,North Carolina,10439388,,North Carolina,37,More than one race,M,289706
+27,90186,37,North Carolina,10439388,,North Carolina,37,Native Hawaiian or Other Pacific Islander,NHOPI,16677
+27,90186,37,North Carolina,10439388,,North Carolina,37,White,2106-3,7564526
+27,90186,37,North Carolina,10439388,Total,North Carolina,37,,,10835491
+28,7182,38,North Dakota,779094,,North Dakota,38,American Indian or Alaska Native,1002-5,41390
+28,7182,38,North Dakota,779094,,North Dakota,38,Asian,A,13686
+28,7182,38,North Dakota,779094,,North Dakota,38,Black or African American,2054-5,29447
+28,7182,38,North Dakota,779094,,North Dakota,38,More than one race,M,20489
+28,7182,38,North Dakota,779094,,North Dakota,38,Native Hawaiian or Other Pacific Islander,NHOPI,1219
+28,7182,38,North Dakota,779094,,North Dakota,38,White,2106-3,677695
+28,7182,38,North Dakota,779094,Total,North Dakota,38,,,783926
+29,449184,39,Ohio,11799448,,Ohio,39,American Indian or Alaska Native,1002-5,37792
+29,449184,39,Ohio,11799448,,Ohio,39,Asian,A,331040
+29,449184,39,Ohio,11799448,,Ohio,39,Black or African American,2054-5,1582177
+29,449184,39,Ohio,11799448,,Ohio,39,More than one race,M,323099
+29,449184,39,Ohio,11799448,,Ohio,39,Native Hawaiian or Other Pacific Islander,NHOPI,8883
+29,449184,39,Ohio,11799448,,Ohio,39,White,2106-3,9502944
+29,449184,39,Ohio,11799448,Total,Ohio,39,,,11785935
+30,87517,40,Oklahoma,3959353,,Oklahoma,40,American Indian or Alaska Native,1002-5,386895
+30,87517,40,Oklahoma,3959353,,Oklahoma,40,Asian,A,106828
+30,87517,40,Oklahoma,3959353,,Oklahoma,40,Black or African American,2054-5,321327
+30,87517,40,Oklahoma,3959353,,Oklahoma,40,More than one race,M,274143
+30,87517,40,Oklahoma,3959353,,Oklahoma,40,Native Hawaiian or Other Pacific Islander,NHOPI,10399
+30,87517,40,Oklahoma,3959353,,Oklahoma,40,White,2106-3,2954232
+30,87517,40,Oklahoma,3959353,Total,Oklahoma,40,,,4053824
+31,134706,41,Oregon,4237256,,Oregon,41,American Indian or Alaska Native,1002-5,81038
+31,134706,41,Oregon,4237256,,Oregon,41,Asian,A,219823
+31,134706,41,Oregon,4237256,,Oregon,41,Black or African American,2054-5,101360
+31,134706,41,Oregon,4237256,,Oregon,41,More than one race,M,185731
+31,134706,41,Oregon,4237256,,Oregon,41,Native Hawaiian or Other Pacific Islander,NHOPI,21141
+31,134706,41,Oregon,4237256,,Oregon,41,White,2106-3,3624265
+31,134706,41,Oregon,4237256,Total,Oregon,41,,,4233358
+32,488061,42,Pennsylvania,13002700,,Pennsylvania,42,American Indian or Alaska Native,1002-5,61028
+32,488061,42,Pennsylvania,13002700,,Pennsylvania,42,Asian,A,542212
+32,488061,42,Pennsylvania,13002700,,Pennsylvania,42,Black or African American,2054-5,1588520
+32,488061,42,Pennsylvania,13002700,,Pennsylvania,42,More than one race,M,315711
+32,488061,42,Pennsylvania,13002700,,Pennsylvania,42,Native Hawaiian or Other Pacific Islander,NHOPI,12804
+32,488061,42,Pennsylvania,13002700,,Pennsylvania,42,White,2106-3,10441408
+32,488061,42,Pennsylvania,13002700,Total,Pennsylvania,42,,,12961683
+33,84342,45,South Carolina,5118425,,South Carolina,45,American Indian or Alaska Native,1002-5,32529
+33,84342,45,South Carolina,5118425,,South Carolina,45,Asian,A,109534
+33,84342,45,South Carolina,5118425,,South Carolina,45,Black or African American,2054-5,1394802
+33,84342,45,South Carolina,5118425,,South Carolina,45,More than one race,M,122059
+33,84342,45,South Carolina,5118425,,South Carolina,45,Native Hawaiian or Other Pacific Islander,NHOPI,6048
+33,84342,45,South Carolina,5118425,,South Carolina,45,White,2106-3,3708583
+33,84342,45,South Carolina,5118425,Total,South Carolina,45,,,5373555
+34,15310,46,South Dakota,886667,,South Dakota,46,American Indian or Alaska Native,1002-5,78356
+34,15310,46,South Dakota,886667,,South Dakota,46,Asian,A,16453
+34,15310,46,South Dakota,886667,,South Dakota,46,Black or African American,2054-5,24076
+34,15310,46,South Dakota,886667,,South Dakota,46,More than one race,M,25346
+34,15310,46,South Dakota,886667,,South Dakota,46,Native Hawaiian or Other Pacific Islander,NHOPI,1229
+34,15310,46,South Dakota,886667,,South Dakota,46,White,2106-3,773858
+34,15310,46,South Dakota,886667,Total,South Dakota,46,,,919318
+35,64039,47,Tennessee,6910840,,Tennessee,47,American Indian or Alaska Native,1002-5,40623
+35,64039,47,Tennessee,6910840,,Tennessee,47,Asian,A,150903
+35,64039,47,Tennessee,6910840,,Tennessee,47,Black or African American,2054-5,1177596
+35,64039,47,Tennessee,6910840,,Tennessee,47,More than one race,M,164311
+35,64039,47,Tennessee,6910840,,Tennessee,47,Native Hawaiian or Other Pacific Islander,NHOPI,8326
+35,64039,47,Tennessee,6910840,,Tennessee,47,White,2106-3,5584730
+35,64039,47,Tennessee,6910840,Total,Tennessee,47,,,7126489
+36,268766,48,Texas,29145505,,Texas,48,American Indian or Alaska Native,1002-5,331189
+36,268766,48,Texas,29145505,,Texas,48,Asian,A,1819202
+36,268766,48,Texas,29145505,,Texas,48,Black or African American,2054-5,4157785
+36,268766,48,Texas,29145505,,Texas,48,More than one race,M,708640
+36,268766,48,Texas,29145505,,Texas,48,Native Hawaiian or Other Pacific Islander,NHOPI,50428
+36,268766,48,Texas,29145505,,Texas,48,White,2106-3,23436057
+36,268766,48,Texas,29145505,Total,Texas,48,,,30503301
+37,48330,49,Utah,3205958,,Utah,49,American Indian or Alaska Native,1002-5,53517
+37,48330,49,Utah,3205958,,Utah,49,Asian,A,97516
+37,48330,49,Utah,3205958,,Utah,49,Black or African American,2054-5,55081
+37,48330,49,Utah,3205958,,Utah,49,More than one race,M,103005
+37,48330,49,Utah,3205958,,Utah,49,Native Hawaiian or Other Pacific Islander,NHOPI,39827
+37,48330,49,Utah,3205958,,Utah,49,White,2106-3,3068788
+37,48330,49,Utah,3205958,Total,Utah,49,,,3417734
+38,29046,50,Vermont,643077,,Vermont,50,American Indian or Alaska Native,1002-5,2615
+38,29046,50,Vermont,643077,,Vermont,50,Asian,A,13589
+38,29046,50,Vermont,643077,,Vermont,50,Black or African American,2054-5,10445
+38,29046,50,Vermont,643077,,Vermont,50,More than one race,M,14384
+38,29046,50,Vermont,643077,,Vermont,50,Native Hawaiian or Other Pacific Islander,NHOPI,267
+38,29046,50,Vermont,643077,,Vermont,50,White,2106-3,606164
+38,29046,50,Vermont,643077,Total,Vermont,50,,,647464
+39,117277,51,Virginia,8631393,,Virginia,51,American Indian or Alaska Native,1002-5,53618
+39,117277,51,Virginia,8631393,,Virginia,51,Asian,A,645027
+39,117277,51,Virginia,8631393,,Virginia,51,Black or African American,2054-5,1744373
+39,117277,51,Virginia,8631393,,Virginia,51,More than one race,M,306447
+39,117277,51,Virginia,8631393,,Virginia,51,Native Hawaiian or Other Pacific Islander,NHOPI,11559
+39,117277,51,Virginia,8631393,,Virginia,51,White,2106-3,5954674
+39,117277,51,Virginia,8631393,Total,Virginia,51,,,8715698
+40,85283,53,Washington,7705281,,Washington,53,American Indian or Alaska Native,1002-5,157215
+40,85283,53,Washington,7705281,,Washington,53,Asian,A,839962
+40,85283,53,Washington,7705281,,Washington,53,Black or African American,2054-5,364647
+40,85283,53,Washington,7705281,,Washington,53,More than one race,M,419579
+40,85283,53,Washington,7705281,,Washington,53,Native Hawaiian or Other Pacific Islander,NHOPI,68252
+40,85283,53,Washington,7705281,,Washington,53,White,2106-3,5963225
+40,85283,53,Washington,7705281,Total,Washington,53,,,7812880
+41,63670,55,Wisconsin,5893718,,Wisconsin,55,American Indian or Alaska Native,1002-5,73289
+41,63670,55,Wisconsin,5893718,,Wisconsin,55,Asian,A,195770
+41,63670,55,Wisconsin,5893718,,Wisconsin,55,Black or African American,2054-5,392333
+41,63670,55,Wisconsin,5893718,,Wisconsin,55,More than one race,M,136037
+41,63670,55,Wisconsin,5893718,,Wisconsin,55,Native Hawaiian or Other Pacific Islander,NHOPI,3689
+41,63670,55,Wisconsin,5893718,,Wisconsin,55,White,2106-3,5109837
+41,63670,55,Wisconsin,5893718,Total,Wisconsin,55,,,5910955
+42,15771,56,Wyoming,576851,,Wyoming,56,American Indian or Alaska Native,1002-5,16393
+42,15771,56,Wyoming,576851,,Wyoming,56,Asian,A,6723
+42,15771,56,Wyoming,576851,,Wyoming,56,Black or African American,2054-5,7048
+42,15771,56,Wyoming,576851,,Wyoming,56,More than one race,M,14244
+42,15771,56,Wyoming,576851,,Wyoming,56,Native Hawaiian or Other Pacific Islander,NHOPI,661
+42,15771,56,Wyoming,576851,,Wyoming,56,White,2106-3,538988
+42,15771,56,Wyoming,576851,Total,Wyoming,56,,,584057
